@@ -1,0 +1,26 @@
+.custom-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.extra-padding{
+    padding: 10px;
+    background-color: rgb(24, 43, 95);
+    margin: 10px;
+}
+.border-area{
+    border: 1px solid black;
+    margin: 15px;
+    height: 300px;
+    
+}
+.text-decor{
+    text-decoration: none;
+    color: white;
+}
+.text-decor:hover{
+    color: white;
+    
+}
+.black-color{
+    color: rgb(109, 103, 103);
+}
